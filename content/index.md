@@ -1,27 +1,50 @@
 ---
-title: Hi, I'm Aji Ananta 👋
+title: Welcome to My Digital Garden
+tags:
+  - portfolio
+  - gamedev
+  - programmer
+description: Portfolio and Devlog of Nur Aji Ananta - Software & Game Developer
 ---
-![[assets/cat4.jpg | center|265]]
+![[cat4.webp| center|265]]
 
+# 👋 Hi, I'm Nur Aji Ananta
 
-Welcome to my digital garden. I'm a **Software & Game Developer** exploring interactive experiences, complex systems, and digital art. Here, I cultivate my projects, thoughts, and everything in between.
+> [!info] Quick Links 
+> > 📧 nur.ajiananta177@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/ajiana01/) | 🐙 [GitHub](https://github.com/ajiana01) | 🎮 [Itch.io](https://ajiana01.itch.io/) | 📑 [Curriculum Vitae](https://drive.google.com/file/d/1GvG9gW_38Gdusph9EBllw_tmma-5_b25/view?usp=sharing)
 
+I am a **Software & Game Developer**, bringing a passion for interactive storytelling and optimized gameplay. I recently graduated from **Universitas Negeri Semarang** with a Bachelor's degree in Computer Science (GPA 3.91/4.00).
 
->  Currently do game development stuff for game jam and looking for oppurtunity in game industry!
+Currently, I serve as the Lead Developer at **Dopamine Rush**, an indie game studio where I focus on building engaging player experiences.
 
+---
+## 🧭 My Approach: The T-Shaped Developer
 
-### 🚀 Curated Showcases
+I believe that great games are built at the intersection of solid code architecture and clear project vision. My expertise spans two main pillars:
+1. **💻 Technical Engineering (C# & Unity):** I specialize in game programming with hands-on experience in 2D and 3D games. My technical focus includes Unity 6, DOTS/ECS for performance, and scalable architectures like the MVC Framework. 
+2. **📊 Studio & Project Management:** Beyond writing code, I manage task workflows, plan project scopes, and coordinate cross-functional teams to translate Game Design Documents (GDD) into functional gameplay modules.
 
-- **🕹️ Game Development**
-  - [[Final Slander]] — Game turn-based tactical roguelite dengan grid-based combat.
-  - [[Broadcasted Lies]] — Top 20 Finalist GEMASTIK 2025.
-  - [[Rescuter]] — Project Game Jam (GameJam+ 24/25)..
+---
 
-- **💻 Software Engineering**
-  -  — Workflow management dan automasi internal studio.
-  - — Dokumentasi setup environment dan python venv untuk development.
-  -  — Source code website hypertext ini.
+## 📂 Explore My Garden
 
-- **🎨 Digital Art & Design**
-  -  — Kumpulan model 3D yang dibuat menggunakan Blender.
-  -  — Desain antarmuka game dan aplikasi menggunakan Figma.
+This site serves as my living portfolio and technical devlog. Feel free to explore my work through the links below: 
+### 🎮 Game Development
+* [[Broadcasted Lies]] - GEMASTIK 2025 Finalist (Top 20 National). A dynamic narrative game utilizing Fuzzy Logic and Finite State Machines.
+* [[Rune|Rune Tactics: Dragonfall]] - GameJam+ 25/26 Participant featuring turn-based tactical combat.
+* [[Project Dilemma]] - Agate Academy Final Project built with the Agate MVC Framework.
+
+### 💻 Software Development
+* [[Faciliffy]] - LIDM 2024 Finalist. An educational app utilizing LLM and MVVM Architecture (Kotlin).
+* [[Nutriwise|NutriWise]] - Bangkit Academy Capstone Project focusing on clean architecture principles.
+
+### 🏢 Leadership & Experience
+* **Dopamine Rush** - Lead Developer.
+* [[Rangers Community|Rangers (UNNES Game Developers Community)]] - Founder & Lead, organizing workshops and fostering student interest in the game industry.
+* [[PT Ferbos Kreasi Digital]] - Software Developer Intern (Odoo/Python).
+* [[Agate Academy]] - Game Programmer Trainee.
+* [[Bangkit Academy]] - Mobile Development Cohort.
+
+---
+
+> *"Looking to bring my passion for interactive storytelling and optimized gameplay to a dynamic game studio."*

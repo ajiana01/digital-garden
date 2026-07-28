@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Dela Gothic One
+      header: Merriweather Sans
       body: Plus Jakarta Sans
       code: IBM Plex Mono
     colors:

@@ -1,0 +1,6 @@
+---
+tags:
+  - odoo
+  - python
+  - programmer
+---
