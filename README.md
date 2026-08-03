@@ -10,7 +10,7 @@ I am a recent Informatics Engineering graduate from Universitas Negeri Semarang 
 
 ## 🛠️ Core Tech Stack & Tools
 
-*   **Game Development:** Unity 6, C#, DOTS/ECS, Mirror (Multiplayer)
+*   **Game Development:** Unity 6, C#
 *   **Software Development:** Python (Odoo Framework), Kotlin (Jetpack Compose)
 *   **Management & Design:** Agile Workflow, Git/GitHub, Figma, Clip Studio Paint, Blender, Aseprite
 
@@ -24,13 +24,17 @@ Here are a few highlights of the projects documented in this garden:
 * **Role:** Game Designer & Programmer
 * **Achievement:** GEMASTIK 2025 Finalist (Top 20 National)
 * **Tech:** Unity, C#, Fuzzy Logic, Finite State Machine (FSM)
-* **Description:** A dynamic narrative visual novel implementing complex branching storylines driven by FSM and Fuzzy Logic systems.
-
-### [Rune Tactics: Dragonfall](https://byebyu.itch.io/rune-tactics-dragonfall)
-* **Role:** Programmer & UI Animator
-* **Achievement:** GameJam+ 25/26 Participant
-* **Tech:** Unity, C#, Turn-based Combat Architecture
-* **Description:** Engineered tactical combat systems and fluid UI transitions under strict game jam time constraints.
+* **Description:** A dynamic narrative visual novel implementing branching storylines driven by FSM and Fuzzy Logic systems.
+### [Project Dilemma]([https://ajiana01.itch.io/broadcasted-lies](https://jeremy-wowiling.itch.io/project-dilemma))
+* **Role:** Game Programmer
+* **Achievement:** Agate Academy Participant
+* **Tech:** Unity, C#, Agate MVC
+* **Description:** While on the trip to a Snow Mountain, a sudden blizzard forced you and 8 other strangers to take shelter in an abandoned cottage at the top of the mountain. As the time goes on, the blizzard is getting stronger and the people is starting to panic. Use your wit and charm to survive through the chaotic situation full of surprise.
+### [Together Forever](https://ajiana01.itch.io/together-forever)
+* **Role:** Programmer
+* **Achievement:** TOP 40 Gameseed Student
+* **Tech:** Unity, C#
+* **Description:** Trapped in the past. Bound by fate. The only way out is up. Grab a friend for a unique cooperative platformer adventure! 
 
 *(Explore the `content/` directory or visit the live site to read the full technical devlogs and post-mortems of these projects).*
 
