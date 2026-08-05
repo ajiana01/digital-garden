@@ -4,6 +4,7 @@ tags:
   - software-engineering
   - formulatrix
   - csharp
+date: 2026-08-04
 ---
 > [!summary] TL;DR
 > Melanjutkan eksplorasi mendalam tentang C# Language Basics dan menantang diri dengan kuis-kuis opsional. Hari ini ditutup dengan ujian pilihan ganda yang sangat ketat (tanpa buku, Google, LLM, atau *code editor*). Mendapatkan skor 39/50 menjadi pengingat bahwa fundamental saya masih perlu dipertajam. *Logic challenge* hari ini: implementasi Queue.

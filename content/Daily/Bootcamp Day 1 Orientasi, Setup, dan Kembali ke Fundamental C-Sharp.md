@@ -1,5 +1,5 @@
 ---
-date: 2027-08-03
+date: 2026-08-03
 tags:
   - "#bootcamp"
   - software-engineering
